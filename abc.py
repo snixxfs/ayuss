@@ -1,6 +1,7 @@
 a=2
 b=3
 c=4
-d=5
-e=a+b+c+d
-print(e)
+d=8
+e=8
+f=a+b+c+d+e
+print(f)
